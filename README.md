@@ -1,4 +1,4 @@
-# Reinforcement_Learning_TS
+# Reinforcement_Learning_UniTS
 Reinforcement learning research project, University of Trieste.
 
 Useful resources:
